@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=June222&show_icons=true&theme=radical)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangtai4)](https://solved.ac/jangtai4/)
+
 ### Don't mind Visit here
 <a href="https://noogang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/noogang-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/vwxy_h__s_/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/vwyz__h____s__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
 
