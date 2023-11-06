@@ -12,7 +12,7 @@
 
 
 ### Enviroment
-<img alt="Windows" src ="https://img.shields.io/badge/Windows-black?&style=for-the-badge&logo=Windows&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSCode-02569B?&style=for-the-badge&logo=Visual Studio Code&logoColor=black"/> <img alt="IntelliJIDEA" src ="https://img.shields.io/badge/intellijidea-orange?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
+<img alt="Windows" src ="https://img.shields.io/badge/Windows-black?&style=for-the-badge&logo=Windows&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSCode-02569B?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img alt="IntelliJIDEA" src ="https://img.shields.io/badge/intellijidea-orange?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
 
 
 ### Github stats
