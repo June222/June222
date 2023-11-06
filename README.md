@@ -1,11 +1,18 @@
-### I can use
-<img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=black"/> <img alt="CPP" src ="https://img.shields.io/badge/CPP-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/>  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+## I can use
 
-### Tools
-<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=black"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/> <img alt="Spring" src ="https://img.shields.io/badge/spring-yellow?&style=for-the-badge&logo=spring&logoColor=white"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/springboot-yellow?&style=for-the-badge&logo=springboot&logoColor=white"/>
+### Language 
+<img alt="Dart" src ="https://img.shields.io/badge/Dart-02569B?&style=for-the-badge&logo=Dart&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=black"/> <img alt="CPP" src ="https://img.shields.io/badge/CPP-A8B9CC?&style=for-the-badge&logo=cplusplus&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=black"/> <img alt="Java" src ="https://img.shields.io/badge/Java-orange?&style=for-the-badge&logo=java&logoColor=black"/>
+
+### Tools 
+<img alt="Firebase" src ="https://img.shields.io/badge/firebase-02569B?&style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=black"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/springboot-orange?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="Amazon RDS" src ="https://img.shields.io/badge/amazon_rds-527FFF?&style=for-the-badge&logo=amazonrds&logoColor=white"/> <img alt="Amazon AWS" src ="https://img.shields.io/badge/amazon_aws-527FFF?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Framework
+
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/spring-orange?&style=for-the-badge&logo=spring&logoColor=white"/>
+
 
 ### Enviroment
-<img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=black"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=black"/><img alt="IntelliJIDEA" src ="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
+<img alt="Windows" src ="https://img.shields.io/badge/Windows-black?&style=for-the-badge&logo=Windows&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSCode-02569B?&style=for-the-badge&logo=Visual Studio Code&logoColor=black"/> <img alt="IntelliJIDEA" src ="https://img.shields.io/badge/intellijidea-orange?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
 
 
 ### Github stats
