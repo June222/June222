@@ -1,6 +1,22 @@
-# 🏆 부산대학교 제 2회 산업인공지능 프로젝트 경진대회 우수상 수상
-# 🥈 PNU CSE 졸업과제 은상 수상
+# 🥇 Awards I got
+### 🏆 부산대학교 제 2회 산업인공지능 프로젝트 경진대회 우수상 수상
+<img src="https://github.com/June222/June222/assets/38900003/06292c14-08cc-480a-8861-74780b6664f3" width = 300>
 
+### 🥈 PNU CSE 졸업과제 은상 수상
+
+<br>
+
+# 🔭 I’m currently working on
+
+<img alt="Dart" src ="https://img.shields.io/badge/Dart-02569B?&style=for-the-badge&logo=Dart&logoColor=white"/> <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+<br>
+
+# 🌱 I’m currently learning
+
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-FCC624?&style=for-the-badge&logo=MySQL&logoColor=black"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/springboot-orange?&style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<br>
 
 ## I can use
 
@@ -19,16 +35,27 @@
 <img alt="Windows" src ="https://img.shields.io/badge/Windows-black?&style=for-the-badge&logo=Windows&logoColor=white"/> <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSCode-02569B?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img alt="IntelliJIDEA" src ="https://img.shields.io/badge/intellijidea-orange?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
 
 
+
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=June222&show_icons=true&theme=radical)
 
 ### Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangtai4)](https://solved.ac/jangtai4/)
 
-### Come 
-<a href="https://noogang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/noogang-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/vwxy_h__s_/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/vwyz__h____s__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>       [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJune222&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+
+# 📫 How to reach me: 
+
+Email: 0119299@gmail.com
+
+<a href="https://noogang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/noogang-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/vwxy_h__s_/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/vwyz__h____s__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
+<br>
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJune222&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **June222/June222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
