@@ -4,6 +4,9 @@
 
 ### 🥈 PNU CSE 졸업과제 은상 수상
 
+<img src="https://github.com/June222/June222/assets/38900003/d8f585c4-89ac-4f59-a69b-43ffdaeb2db7" width = 300>
+
+
 <br>
 
 # 🔭 I’m currently working on
