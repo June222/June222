@@ -1,8 +1,8 @@
 # 🥇 Awards I got
-### 🏆 부산대학교 제 2회 산업인공지능 프로젝트 경진대회 우수상 수상
+### 🏆 부산대학교 제 2회 산업인공지능 프로젝트 경진대회 우수상 수상 (본선 8팀)
 <img src="https://github.com/June222/June222/assets/38900003/06292c14-08cc-480a-8861-74780b6664f3" width = 300>
 
-### 🥈 PNU CSE 졸업과제 은상 수상
+### 🥈 PNU CSE 졸업과제 은상 수상 (14개 팀)
 
 <img src="https://github.com/June222/June222/assets/38900003/d8f585c4-89ac-4f59-a69b-43ffdaeb2db7" width = 300>
 
