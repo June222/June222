@@ -1,17 +1,19 @@
+<div align = "center">
+  
 # 🥇 Awards I got
 ### 🏆 부산대학교 제 2회 산업인공지능 프로젝트 경진대회 우수상 수상 (본선 8팀)
-<img src="https://github.com/June222/June222/assets/38900003/06292c14-08cc-480a-8861-74780b6664f3" width = 300>
+<!--<img src="https://github.com/June222/June222/assets/38900003/06292c14-08cc-480a-8861-74780b6664f3" width = 300>-->
 
 ### 🥈 PNU CSE 졸업과제 은상 수상 (14개 팀)
 
-<img src="https://github.com/June222/June222/assets/38900003/d8f585c4-89ac-4f59-a69b-43ffdaeb2db7" width = 300>
+<!--<img src="https://github.com/June222/June222/assets/38900003/d8f585c4-89ac-4f59-a69b-43ffdaeb2db7" width = 300>-->
 
 
 <br>
 
-# 🔭 I’m currently working on
+<!--# 🔭 I’m currently working on
 
-<img alt="Dart" src ="https://img.shields.io/badge/Dart-02569B?&style=for-the-badge&logo=Dart&logoColor=white"/> <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img alt="Dart" src ="https://img.shields.io/badge/Dart-02569B?&style=for-the-badge&logo=Dart&logoColor=white" width=60 /> <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" width=60 />
 
 <br>
 
@@ -20,8 +22,7 @@
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-FCC624?&style=for-the-badge&logo=MySQL&logoColor=black"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/springboot-orange?&style=for-the-badge&logo=springboot&logoColor=white"/>
 
 <br>
-
-## I can use
+-->
 
 ### Language 
 <img alt="Dart" src ="https://img.shields.io/badge/Dart-02569B?&style=for-the-badge&logo=Dart&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=black"/> <img alt="CPP" src ="https://img.shields.io/badge/CPP-A8B9CC?&style=for-the-badge&logo=cplusplus&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=black"/> <img alt="Java" src ="https://img.shields.io/badge/Java-orange?&style=for-the-badge&logo=java&logoColor=black"/>
@@ -177,3 +178,4 @@ Documents your database design and schemas, relations etc...
 ## Licensing
 
 State what the license is and how to find the text version of the license.-->
+</div>
