@@ -5,7 +5,7 @@
 
 [![Resume Site](https://img.shields.io/badge/View%20My%20Resume-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://june222.github.io/)
 
----
+<br>
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@
 - 📦 인프라 설계, IaC, CI/CD, 보안 자동화에 관심
 - 🧠 문제를 해결하기 위해 협업하고 배우는 것을 즐깁니다.
 
----
+<br>
 
 ## 💼 Representative Experiences
 
@@ -39,13 +39,13 @@
 - Flutter 기반 UI 및 위치 기반 데이터 처리
 - REST API 개발 및 지도 기반 쿼리 구현
 
----
+<br>
 
 ## 🧰 Tech Stack
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-ED986C?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 
----
+<br>
 
 ## 📫 Contact
 
@@ -57,7 +57,7 @@
 | 📄 Resume | [https://june222.github.io/](https://june222.github.io/) |
 
 
----
+<br>
 
 ## Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangtai4)](https://solved.ac/jangtai4/)
