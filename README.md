@@ -3,7 +3,7 @@
 지속 가능과 자동화의 가치를 아는  
 **Cloud Native & DevOps 지향 개발자**입니다.
 
-[![Resume Site](https://img.shields.io/badge/View%20My%20Resume-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://june222.github.io/)
+[![Resume Site](https://img.shields.io/badge/View%20My%20Resume-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://june222.github.io/resume)
 
 <br>
 
@@ -54,7 +54,7 @@
 | 📧 Email | [0119299@gmail.com](mailto:0119299@gmail.com) |
 | 🐙 GitHub | [@june222](https://github.com/june222) |
 | 📸 Instagram | [@vwxy_h__s_](https://www.instagram.com/vwxy_h__s_/) |
-| 📄 Resume | [https://june222.github.io/](https://june222.github.io/) |
+| 📄 Resume | [https://june222.github.io/](https://june222.github.io/resume) |
 
 
 <br>
